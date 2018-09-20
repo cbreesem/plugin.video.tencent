@@ -2,3 +2,26 @@
 http://vv.video.qq.com/getinfo?vids=i1585usr94p&platform=101001&charge=0&otype=json&defn=shd
 
 https://v.qq.com/x/page/m0709k6i45d.html
+
+http://v.youku.com/player/getPlayList/VideoIDS/XNzk2NTI0MzMy/Pf/4/ctype/12/ev/1
+
+http://v.youku.com/v_show/id_XMTM5OTY1NTI4MA==.html?spm=a2h1n.8251845.0.0
+
+http://v.youku.com/player/getPlayList/VideoIDS/XMTM5OTY1NTI4MA/Pf/4/ctype/12/ev/1
+
+http://pl-ali.youku.com/playlist/m3u8?vid=XMTM5OTY1NTI4MA&type=mp4&ups_client_netip=7ce4a60d&utid=V%2FpVEySjqVUCATszNzOZ%2FAz6&ccode=0502&psid=7c81d7e7064652c54325e9fbc96db571&duration=5987&expire=18000&drm_type=1&drm_device=7&ups_ts=1537435438&onOff=0&encr=0&ups_key=058445332d3f6710d0b24629dfe70fa7
+
+ccode   0502
+drm_device  7
+drm_type    1
+duration    5987
+encr    0
+expire  18000
+onOff   0
+psid    7c81d7e7064652c54325e9fbc96db571
+type    mp4
+ups_client_netip    7ce4a60d
+ups_key 058445332d3f6710d0b24629dfe70fa7
+ups_ts  1537435438  请求时间
+utid    V/pVEySjqVUCATszNzOZ/Az6
+vid XMTM5OTY1NTI4MA   //片子id,地址中
